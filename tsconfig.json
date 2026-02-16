@@ -21,6 +21,5 @@
     "dist",
     "node_modules",
     "island-ui"
-  ],
-  "extends": "expo/tsconfig.base"
+  ]
 }
